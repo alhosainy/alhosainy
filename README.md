@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALHOSAINY YASER</h1>
-<h3 align="center">A passionate Flutter dev from Egypt</h3>
+<h3 align="center">A passionate Flutter dev (and Math teacher) from Egypt</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alhosainy&label=Profile%20views&color=4010B0" height="35" /> </p>
 
@@ -83,7 +83,7 @@ I am a Flutter developer and a math teacher with a passion for creating beautifu
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhosainy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="alhosainy" /></p>
 
-<h3 align="center">Footer:</h3>
+
 <p align="center">
     <br>
     "Passion is the fuel that drives success." 🚀
